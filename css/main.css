@@ -5,6 +5,7 @@ footer {
     background-color: #09b3b0;
     text-align: center;
     border-radius: 10px;
+    font-family: 'Architects Daughter';
 }
 
 header,
@@ -20,14 +21,16 @@ body {
 
 h1 {
     font-size: 42px;
-    font-family: 'Architects Daughter', cursive;
+    font-family: 'Architects Daughter';
 }
 
 main {
+    font-family: 'Architects Daughter', cursive;
     font-size: 18px;
 }
 
 footer {
+    font-family: sans-serif cursive;
     font-size: 18px;
 }
 
@@ -41,4 +44,9 @@ img {
     height: 220px;
     object-fit: fill;
     float: right;
+}
+
+span {
+    font-size: 14px;
+    color: #286e6d;
 }
