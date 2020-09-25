@@ -10,7 +10,7 @@ body {
 
 /* header rules*/
 header {
-    background-color: #17a8e4;
+    background-color: #17e46c;
     padding: 1rem 2%;
 }
 
@@ -24,7 +24,7 @@ header h2{
 
 /* navigation rules*/
 nav {
-    background-color: #111111;
+    background-color: #2a7a59;
 }
 
 nav ul{
@@ -37,7 +37,7 @@ nav li {
 }
 
 nav li.active {
-    background-color: #333;
+    background-color: #1b523b;
 }
 
 nav a {
@@ -60,7 +60,7 @@ main {
 }
 
 main h1{
-    color: #17a8e4;
+    color: #17e46c;
 }
 
 main figure img {
@@ -80,7 +80,7 @@ main figcaption {
 footer {
     text-align: center;
     padding: 1rem 2%;
-    background-color: #19a8e4;
+    background-color: #17e46c;
 }
 
 
