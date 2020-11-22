@@ -41,10 +41,10 @@ fetch(apiURLforecast)
 
     for (i = 0; i < days_list.length; i++) {
       var time = days_list[i].dt_txt;
-      if (time.includes('21:00:00')){
-        forecastDayNumber += 1 
-        
-        if (forecastDayNumber===7) {
+      if (time.includes('21:00:00')) {
+        forecastDayNumber += 1
+
+        if (forecastDayNumber === 7) {
           forecastDayNumber = 0
         }
 
@@ -66,11 +66,8 @@ fetch(apiURLforecast)
 
         document.getElementById(weatherforecast).appendChild(theDay)
       }
-      
+
     }
 
 
   });
-
-
-
