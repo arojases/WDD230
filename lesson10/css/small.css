@@ -141,7 +141,7 @@ h3 {
     display: none;
 }*/
 
-section div#gridTemp {
+section div#gridForecast {
     display: grid;
     grid-template-columns: 1fr;
     gap: 1px;

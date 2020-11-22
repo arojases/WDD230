@@ -60,6 +60,6 @@ fetch(api)
             section.append(icon);
             section.append(temp);
 
-            document.getElementById('gridTemp').appendChild(section);
+            document.getElementById('gridForecast').appendChild(section);
         }
     });

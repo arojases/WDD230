@@ -48,7 +48,7 @@
         grid-template-columns: 1fr 1fr;
     }
 
-    section div#gridTemp {
+    section div#gridForecast {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
     }
