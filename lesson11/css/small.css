@@ -351,7 +351,16 @@ main h2 {
 a {
     color: white;
 }
+/*---------------------events------------------------------*/
 
+.sodaEvents, .fishEvents{
+	margin: 40px auto;
+	padding: 15px 0;
+	background-color:#B1CEF3;
+    color: white;
+    font-size: 1.2rem;
+    text-align: center;
+}
 
 /*------------------------Footer---------------------------*/
 
