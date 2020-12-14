@@ -1,4 +1,4 @@
-const data = "//zak19018.github.io/Scoots/data/rentals.json";
+const data = "//arielrojas.github.io/final/data/rentals.json ";
 fetch(data)
   .then((response) => response.json())
   .then((jsObject) => {
